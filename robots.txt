@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://89.19.211.168/sitemap.xml
+Sitemap: https://thisissevar.uz/sitemap.xml
